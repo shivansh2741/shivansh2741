@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on a personal project utilizing Spring Boot as the backend, with plans to containerize it using Docker. Actively looking to collaborate in open-source, I am expanding my skills in both frontend and backend development. Currently, I am learning ReactJS with TypeScript and deepening my knowledge of Java Spring Boot.<br>When I’m not coding, I’m probably experimenting with new tech tools or challenging myself to learn something completely unexpected—keeps things interesting, like plot twists in my code! 🚀
+I am currently working on a personal project utilizing Spring Boot as the backend, with plans to containerize it using Docker. Actively looking to collaborate in open-source, I am expanding my skills in both frontend and backend development. Currently, I am learning ReactJS with TypeScript and deepening my knowledge of Java Spring Boot.<br><br>When I’m not coding, I’m probably experimenting with new tech tools or challenging myself to learn something completely unexpected—keeps things interesting, like plot twists in my code! 🚀
 
 
 ## 🌐 Socials:
